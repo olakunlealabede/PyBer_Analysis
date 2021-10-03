@@ -19,7 +19,16 @@ PyBer Analysis shows the summary DataFrame of the ride-sharing data by city type
 <img width="365" alt="PyBer_pivottable_resample" src="https://user-images.githubusercontent.com/89113627/135736303-2b89bd58-8e3c-4196-93f4-c49e4fdffa66.png">
 
 # PyBer Fare Summary
+<img width="806" alt="PyBer_fare_summary2" src="https://user-images.githubusercontent.com/89113627/135736912-772d60c8-160b-47b7-886c-e3d2db4e502b.png">
 
-<[PyBer_fare_summary](https://user-images.githubusercontent.com/89113627/135736854-874ecd96-aefa-4bc5-8e76-889528d89383.png)
+# Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+~ Introduce promotions to Rural and Suburban city riders as motivations will boost performance in addressing disparities
+
+~ Give incentives to frequent riders within Rural and Suburban cities to increase performance
+
+~ Create more awareness and sensitize the riders in Rural and Suburban cities
+
+# PyBer Analysis completed by Abideen Alabede
+
 
 
